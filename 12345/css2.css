@@ -1,0 +1,72 @@
+h2
+{
+ background-color: yellow;
+ text-decoration: underline;
+ text-align: center;
+ color : Red;
+ text-transform: capitalize;
+}
+#Second
+{
+  color:  rgb(70,0,250);
+  background-color: green;
+  text-align: right;
+}
+p3
+{
+  background-color: White;
+  color:black;
+}
+#Multimedia
+{
+  color: white;
+  text-align:center;
+  background-color: black;
+}
+p4
+{
+  color: White;
+  background-color: Blue;
+}
+#First
+{
+  color:black;
+  background-color: orange;
+    text-align:center;
+    text-shadow: 24;
+}
+p1
+{
+  background-color: black;
+  color: white;
+}
+p2
+{
+  background-color: white;
+  color:black;
+}
+#Third
+{
+text-align:center;
+background-color: Red;
+}
+p5
+{
+  background-color: teal;
+  color:white;
+}
+#fourth
+{
+  text-align: center;
+  background-color: rgb(153,102,153);
+ color: rgb(255,255,204);
+ border-color: black;
+ border-width: 25;
+ 
+}
+#Table
+{
+  backface-visibility: 45%;
+  background-color:#777799;
+  color:#FFFFFF;
+}

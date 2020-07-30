@@ -1,0 +1,37 @@
+
+.namesLi
+{
+  backgroung-color: red;
+  color : Brown;
+}
+.divis
+{ color : #8A2BE2 ;
+}
+h1{
+  background-color: Red;
+  text_align: Centre;
+  color:Blue;
+}
+h2
+{
+  background-color: yellow;
+ text-decoration: underline;
+  color : Red;
+}
+li
+{ 
+  color:green;
+
+}
+#taj
+{
+  float: Right;
+}
+.att
+{
+ color: rgb(50,100,344);
+}
+.roll
+{
+  color:rgb(222,97,76);
+}
